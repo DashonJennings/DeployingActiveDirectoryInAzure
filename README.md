@@ -37,14 +37,16 @@ This lab's purpose is to understand how Active Directory and Windows networking 
 - Download and install the VM VirtualBox Extension Pack
 > NOTE: This setup will use a Windows 11 host OS.
 
-![](images/virtualbox_download.png)
+![virtualbox_download](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/assets/160358839/0c6ec24e-3f0e-4eeb-8264-f1855c98074a)
+
 
 ## Step 2: Download [Windows Server 2019 ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
 - English (United States)
 - ISO File 
 - 64-bit edition
 
-![](images/win_server_download.png)
+![win_server_download](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/assets/160358839/49a838ec-a361-4e93-aa5e-fdcb5de9db38)
+
 
 ## Step 3: Download Microsoft's [Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) and Windows 10 ISO
 > NOTE: In order to download the Windows 10 ISO the media creation tool is required.
