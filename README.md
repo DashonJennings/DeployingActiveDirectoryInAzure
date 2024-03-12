@@ -28,7 +28,8 @@ This lab's purpose is to understand how Active Directory and Windows networking 
 
 
 ### Overview:
-![](images/win_active_dir.png)
+![win_active_dir](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/assets/160358839/3d410c34-1ed9-48b8-b3e0-ca030b766830)
+
 
 ## Step 1: Download and Install [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - Select the appropriate download based on the current host OS
