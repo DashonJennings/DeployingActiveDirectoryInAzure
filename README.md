@@ -1,4 +1,5 @@
-![](images/activedirect.png)
+![activedirect](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/assets/160358839/87ea9c0f-f0a6-4c57-9d0e-d582350978e9)
+
 # Microsoft Active Directory | Corporate Network Environment
 
 ### Summary
