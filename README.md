@@ -1,6 +1,6 @@
 ![activedirect](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/assets/160358839/87ea9c0f-f0a6-4c57-9d0e-d582350978e9)
 
-# Microsoft Active Directory | Corporate Network Environment
+# Deploying Active Directory in Azure
 
 ### Summary
 Ative Directory (AD) is Microsoft's service to manage Window's domain networks. It is what most enterprises build their IT departments on.
